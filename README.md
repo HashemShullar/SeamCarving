@@ -1,10 +1,6 @@
 # Seam Carving
 
-Image retargeting is the process of changing the aspect ratio of an image without introducing artifacts or distorting the important parts. Its applications vary from Computer Vision pre-processing steps to photo editing softwares. Recent developments in foldable phone have also triggered interest in image retargeting since these algorithms help in improving the user experience. Seam Carving is a discrete retargeting method where the aspect ratio of the image is iteratively changed by generating top-down and left-right lines along which the modifications occur.
-
-This code was developed for EE 663 (Image Processing) course at KFUPM.
-
-
+Image retargeting is the process of changing the aspect ratio of an image without introducing artifacts or distorting its important parts. Retargeting applications vary from Computer Vision pre-processing steps to photo editing softwares. Recent developments in foldable phones have also triggered interest in image retargeting since these algorithms help in improving the user experience. Seam Carving is a discrete retargeting method where the aspect ratio of the image is iteratively changed by generating top-down and left-right lines along which the modifications occur.
 
 
 
